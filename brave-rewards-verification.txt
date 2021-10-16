@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: amaradhikari.com.np
+Token: 10aeb0c6760fdc1ca07fb0b66fdccdfda24c2bf97d68b5de5cf8e0c59bc2a1b7
